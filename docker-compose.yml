@@ -1,4 +1,3 @@
-version: '3.8'
 services:
   sql2022:
     image: mcr.microsoft.com/mssql/server:2022-latest
